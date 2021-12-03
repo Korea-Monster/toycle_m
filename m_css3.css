@@ -1,0 +1,150 @@
+body{ margin: 0 ;
+      padding: 0;
+      width: auto;
+      height: auto;
+}
+
+html {
+  scroll-behavior: smooth
+}
+.header{
+  width : auto;
+  height: auto;
+  border: 1px solid white;
+  margin: 0 auto;
+}
+
+.boxs{
+  width: 200px;
+}
+
+.box1{
+  width: 60px;
+}
+
+.box2{
+  width: 30px;
+}
+
+.box3{
+  height: 228px;
+  margin:0 auto;
+}
+
+.box4{
+  height: 274px;
+}
+
+.top{
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  margin-top:1550px;
+  margin-left: 823px;
+}
+
+.logo{
+  width: 977px;
+  height: 146px;
+  position: fixed;
+  background-image: url("img/m_logo.jpg");
+  box-shadow: 1px 1px 70px 1px lightgray;
+}
+
+.kr{
+  width: 78px;
+  height: 78px;
+  margin-left: 860px;
+  margin-top: 47px;
+}
+
+.slogan{
+  width: 977px;
+  height: 1779px;
+  border: 1px solid white;
+  margin-top: 37px;
+  margin-bottom: 100px;
+  background-image: url("img/main_j.jpg");
+}
+
+.form{
+  width: 399px;
+  height: 113px;
+  margin-left: 289px;
+  margin-top: 1548px;
+}
+
+.keyword{
+  width: auto;
+  height: 1365px;
+  border: 1px solid white;
+  text-align: center;
+  background-image: url("img/key_j.jpg");
+}
+
+.intro{
+    width: auto;
+    height: 1509px;
+    border: 1px solid white;
+    background-image: url("img/com_j.jpg");
+}
+
+.Comment{
+  width: auto;
+  height: 346px;
+  border: 1px solid white;
+  background-image: url("img/coment_j.jpg");
+}
+
+.product{
+  width: auto;
+  height: 2522px;
+  border: 1px solid white;
+  background-image: url("img/pro_j.jpg");
+}
+
+.pro_b{
+  width: 717px;
+  height: 1083px;
+  border: 1px solid white;
+  margin-left: 130px;
+  margin-top: 126px;
+}
+
+.pro_b2{
+  width: 717px;
+  height: 1083px;
+  border: 1px solid white;
+  margin-left: 130px;
+  margin-top: 228px;
+}
+
+.email{
+    width: auto;
+    height: 1015px;
+    border: 1px solid white;
+    background-image: url("img/em_j.jpg");
+}
+
+.send{
+  width: 717px;
+  height: 85px;
+  margin-left: 130px;
+  margin-top: 650px;
+  text-align: center;
+  color: white;
+}
+
+.sns{
+  width: 110px;
+  height: 40px;
+  margin-left: 434px;
+  margin-top: 361px;
+}
+
+.footer{
+  width: auto;
+  height: 489px;
+  border: 1px solid white;
+  background-image: url("img/m_foot.png");
+}
